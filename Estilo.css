@@ -16,18 +16,6 @@
       rgb(0, 0, 0) 100%
     );
   }
-  h1{
-    position: absolute;
-    margin-left: 50%;
-    margin-right: 40%;
-    transform: translate(-50%, 50%);
-    margin-top: 10vh;
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-    font-size: 2.7rem;
-    cursor: default;
-    text-shadow: 1px 1px 10px rgb(0, 0, 0);
-}
   
   .board {
     display: grid;
